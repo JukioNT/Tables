@@ -5,5 +5,5 @@ table, table tr td, table tr th{
 }
 body{
     display: grid;
-    grid-template-columns: auto auto auto auto;
+    grid-template-columns: auto auto auto auto auto;
 }
